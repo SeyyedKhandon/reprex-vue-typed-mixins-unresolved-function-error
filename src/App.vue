@@ -1,7 +1,7 @@
 <template>
   <div id="app" @click="show1()">
     <img alt="Vue logo" src="./assets/logo.png" @click="show2()">
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+    <HelloWorld msg=" reproducible example for unresolved function error on using vue-typed-mixins"/>
   </div>
 </template>
 

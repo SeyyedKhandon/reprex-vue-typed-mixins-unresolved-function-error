@@ -1,4 +1,4 @@
-# typed
+#  reproducible example for unresolved function error on using vue-typed-mixins
 
 ## Project setup
 ```
