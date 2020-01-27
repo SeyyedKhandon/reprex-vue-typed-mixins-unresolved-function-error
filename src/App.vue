@@ -23,7 +23,8 @@
     },
     methods: {
       show2() {
-        alert("show2")
+        alert("show2");
+
       },
       show3(){
         alert("show3");
